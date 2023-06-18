@@ -1,0 +1,35 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:118507915115:function:b35f58eb-6584-4b94-83af-a10ddd8c1341:Release_0"
+        },
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:118507915115:function:b35f58eb-6584-4b94-83af-a10ddd8c1341:Release_0"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:118507915115:function:b35f58eb-6584-4b94-83af-a10ddd8c1341:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:118507915115:function:b35f58eb-6584-4b94-83af-a10ddd8c1341:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "test two"
+        }
+      }
+    }
+  }
+}
